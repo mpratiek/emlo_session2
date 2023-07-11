@@ -1,0 +1,4 @@
+data:
+  _target_: src.test_class.TestClass
+  foo: This is foo
+  bar: This is bar
